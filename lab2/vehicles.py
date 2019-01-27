@@ -19,14 +19,15 @@ def mad(arr):
 
 if __name__ == "__main__":
     df = pd.read_csv('./vehicles.csv')
+    df["Index"]=np.arange(df.shape[0])
     print(df.size)
     print((df.columns))
-    sns_plot = sns.lmplot(df.columns[0], df.columns[1], data=df, fit_reg=False)
+    sns_plot = sns.lmplot(df.columns[2], df.columns[1], data=df, fit_reg=False)
 
     sns_plot.axes[0, 0].set_ylim(0, )
     sns_plot.axes[0, 0].set_xlim(0, )
 
-    sns_plot.savefig("./vehicles result/scaterplot.png", bbox_inches='tight')
+    sns_plot.savefig("./vehicles result/scaterplot2.png", bbox_inches='tight')
 
 
     CurntFlet = df.values.T[0]
