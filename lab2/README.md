@@ -1,6 +1,6 @@
 Lab 2
 
-![Alt text](vehicles result/scaterplot.png?raw=true)
+![logo](./scaterplot.png?raw=true)
 ![Alt text](./vehicles result/scaterplot1.png?raw=true)
 ![Alt text](./vehicles result/scaterplot2.png?raw=true)
 
