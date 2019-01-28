@@ -24,7 +24,7 @@
 >the histogram of the old fleet 
 
 
-![logo](./vehiclesResulthistogramCurrentFleet.png?raw=true)
+![logo](./vehiclesResult/histogramCurrentFleet.png?raw=true)
 
 
 >the histogram of the new fleet 
