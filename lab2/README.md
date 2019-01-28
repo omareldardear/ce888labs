@@ -6,7 +6,7 @@
 >the new fleet vs old fleet
 
 
-![logo](/vehiclesResult/scaterplot.png)
+![logo](./vehiclesResult/scaterplot.png)
 
 
 >the old fleet vs index

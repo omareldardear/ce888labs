@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ffcf33-ae9b-415b-a4c2-de83687d99a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Bootstrap result/customers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap result/vehicle new fleet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap result/vehicle old fleet.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehiclesResult/histogram Current Fleet .png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehiclesResult/histogram New Fleet .png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/compare.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
@@ -38,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/power.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -46,6 +41,15 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -227,6 +231,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20735383" />
@@ -350,16 +355,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap result/customers.png" />
     <entry file="file://$PROJECT_DIR$/Bootstrap result/vehicle new fleet.png" />
-    <entry file="file://$PROJECT_DIR$/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -381,8 +376,18 @@
     <entry file="file://$PROJECT_DIR$/vehicles result/scaterplot2.png" />
     <entry file="file://$PROJECT_DIR$/vehicles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="360">
           <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
