@@ -1,15 +1,13 @@
 import numpy as np
 import pandas as pd
 
-def abTest(sample1,sample2,iterations):
-    Tobs = np.mean(sample2)-np.mean(sample1)
+def abTest(sample1,sample2,iterations,Tobs):
+    if (Tobs == None):
+        Tobs = np.mean(sample2)-np.mean(sample1)
     s1 = sample1.shape[0]
     s2 = sample2.shape[0]
-    print(s1)
-    print(s2)
 
     concat = np.concatenate((sample1, sample2), axis=0)
-    print(concat.shape)
 
     passedIterations = 0
 
@@ -34,5 +32,5 @@ def abTest(sample1,sample2,iterations):
 df = pd.read_csv('./vehicles.csv')
 sample1 = df.values.T[0]
 sample2 = df.values.T[1][0:79]
-abTestVal = abTest(sample1,sample2,10000)
+abTestVal = abTest(sample1,sample2,10000,None)
 print(abTestVal)
