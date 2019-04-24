@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ffcf33-ae9b-415b-a4c2-de83687d99a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/DataSets/winequality-red.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/Red Wine Full Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/Red Wine main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 /Red wine quality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1 /Red wine quality.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/lab6_init.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/lab6_init.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab7/TransferLearning_Example1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab7/TransferLearning_Example1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/power.py" beforeDir="false" afterPath="$PROJECT_DIR$/power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/Rec_correct.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Rec_correct.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/Rec_features.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/Rec_features.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/compare.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -40,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/power.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -91,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,15 +101,11 @@
               <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
-              <item name="BootstrapResult" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,11 +254,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="961" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="960" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20735383" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20735383" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3293124" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -388,13 +385,6 @@
     <entry file="file://$PROJECT_DIR$/Bootstrap result/vehicle new fleet.png" />
     <entry file="file://$PROJECT_DIR$/vehicles result/scaterplot1.png" />
     <entry file="file://$PROJECT_DIR$/vehicles result/scaterplot2.png" />
-    <entry file="file://$PROJECT_DIR$/vehicles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -404,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/power.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -412,10 +402,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vehicles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/compare.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
